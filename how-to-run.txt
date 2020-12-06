@@ -1,0 +1,17 @@
+Note:
+1.cd to the root director(project file).
+  npm install
+2.cd backend
+  npm install
+3.cd to the root directory.
+  Start mongo db using the command: mongod
+  (It will run in the background)
+4.Open another instance of cmd.
+  cd to the root directory.
+  cd backend
+  node server
+5.Open another instance of cmd.
+  cd to the root directory.
+  npm start
+
+
