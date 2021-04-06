@@ -6,3 +6,6 @@ npm start
 in another terminal:
 cd to Auction-app/backend and run:
 nodemon server
+
+
+This project was a part of the Web Technologies course at PES University
