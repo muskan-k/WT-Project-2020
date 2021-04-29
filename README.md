@@ -8,4 +8,4 @@ cd to Auction-app/backend and run:
 nodemon server
 
 
-This project was a part of the Web Technologies course at PES University in a team of 3. 
+This project was a part of the Web Technologies course at PES University in a team of 3. Take a look at the ppt to see the details and contribution.
